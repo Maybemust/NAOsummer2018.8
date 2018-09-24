@@ -1,0 +1,14 @@
+[
+  {
+    "environment": null, 
+    "name": "test_test2", 
+    "cmd": [
+      "/home/liyang/worktree2018/test2/build-tool2/sdk/bin/test_test2"
+    ], 
+    "nightly": false, 
+    "gtest": false, 
+    "working_directory": null, 
+    "timeout": 20, 
+    "perf": false
+  }
+]

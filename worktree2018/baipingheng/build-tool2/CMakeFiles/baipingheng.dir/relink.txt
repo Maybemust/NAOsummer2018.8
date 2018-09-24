@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/baipingheng.dir/main.cpp.o  -o CMakeFiles/CMakeRelink.dir/baipingheng -rdynamic /home/liyang/naoqi-sdk-2.1.4.13-linux64/lib/libopencv_world.so /home/liyang/naoqi-sdk-2.1.4.13-linux64/lib/libz.so -Wl,-rpath,"\$ORIGIN/../lib" 

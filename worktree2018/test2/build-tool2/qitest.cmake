@@ -1,0 +1,1 @@
+--name;test_test2;--timeout;20;--;/home/liyang/worktree2018/test2/build-tool2/sdk/bin/test_test2

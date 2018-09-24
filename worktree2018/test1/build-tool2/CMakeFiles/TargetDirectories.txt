@@ -1,0 +1,6 @@
+/home/liyang/worktree2018/test1/build-tool2/CMakeFiles/install.dir
+/home/liyang/worktree2018/test1/build-tool2/CMakeFiles/list_install_components.dir
+/home/liyang/worktree2018/test1/build-tool2/CMakeFiles/test1.dir
+/home/liyang/worktree2018/test1/build-tool2/CMakeFiles/edit_cache.dir
+/home/liyang/worktree2018/test1/build-tool2/CMakeFiles/install/local.dir
+/home/liyang/worktree2018/test1/build-tool2/CMakeFiles/rebuild_cache.dir

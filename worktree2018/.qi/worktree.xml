@@ -1,0 +1,18 @@
+<worktree>
+  <project src="test1" />
+  <project src="test2" />
+  <project src="shijue" />
+  <project src="picture" />
+  <project src="cutpicture" />
+  <project src="avoidobstacle" />
+  <project src="sebiao" />
+  <project src="baipingheng" />
+  <project src="robotbaipingheng" />
+  <project src="duibidu" />
+  <project src="picturerecgnize" />
+  <project src="avoidcollision" />
+  <project src="testsvm" />
+  <project src="combine" />
+  <project src="drager" />
+  <project src="avoid3" />
+  </worktree>
